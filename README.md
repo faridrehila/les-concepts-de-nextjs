@@ -14,4 +14,6 @@ bun dev
 
 Ouvrir [http://localhost:3000](http://localhost:3000) avec le navigateur.
 
-## Les Vidéos
+## La Vidéo Youtube
+
+https://www.youtube.com/watch?v=S_uZP2G-tUw
